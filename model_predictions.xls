@@ -1,0 +1,16 @@
+RandomForest,GradientBoosting,LightGBM,DecisionTree,Actual
+0,2,2,1,Average
+2,2,2,2,High
+2,2,2,2,Very High
+1,2,2,1,Very High
+2,2,2,2,Very High
+2,1,2,2,High
+2,2,2,1,Very High
+1,2,2,2,Very High
+2,2,2,2,Average
+1,2,2,1,Average
+2,2,2,1,High
+2,2,2,2,Average
+0,2,0,0,Average
+2,2,2,2,High
+0,0,0,0,Average
